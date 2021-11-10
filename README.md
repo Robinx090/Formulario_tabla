@@ -3,21 +3,19 @@
 <head>
  <meta charset="UTF-8">
  <title>FORMULARIO</title>
-<link rel="stylesheet" type="text/css" href="editando.css">
-  <!--
-Esto aparece en el archivo de css editando.css, como no sé como subirlo te mando las ediciones que he realizado
-th{
-	color: red;
-	background-color:#EAF38D ;
-	font-size: xx-large;
-}
-td{
-	background-color: #01DFF9;
-}
-label{
-	text-align: center;
-}
--->
+<style type = "text/css">
+	th{
+		color: red;
+		background-color:#EAF38D ;
+		font-size: xx-large;
+	}
+	td{
+		background-color: #01DFF9;
+	}
+	label{
+		text-align: center;
+	}
+</style>
 </head>
 	<body>
 	 <table border="2" cellpadding="15">
